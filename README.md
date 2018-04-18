@@ -3,7 +3,7 @@ An interactive jupyter notebook to help you screen your stocks
 
 # Use this notebook as your stock screener
 The name of the exchange and the ticker symbol of your stock is all you need. 
-Enter these in the space provided and let the mgic happen!
+Enter these in the space provided and let the magic happen!
 
 You'll see the current price first(along with the open price of the stock)
 Next, you'll see the candlestick plot of the close prices beginning FY14
