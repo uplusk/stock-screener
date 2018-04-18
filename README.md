@@ -1,5 +1,8 @@
 # stock-screener
 An interactive jupyter notebook to help you screen your stocks
+# Pre-requisites: 
+1. chromedriver.exe(included in this repository)
+2. Running all the cells of the notebook first and then entering your values.
 
 # Use this notebook as your stock screener
 The name of the exchange and the ticker symbol of your stock is all you need. 
@@ -26,5 +29,6 @@ I've created my library that I've imported to separate the actual code from the 
 3. Data Wrangling - Pandas and Numpy
 4. Tech-Indicators
 5. Data Visualization - Matplotlib 
+6. Ipyton Widgets
 
 Next-up: Stock Price Prediction using Machine Learning models! Stay Tuned
