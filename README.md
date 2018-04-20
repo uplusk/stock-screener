@@ -5,7 +5,7 @@ An interactive jupyter notebook to help you screen your stocks
 2. Running all the cells of the notebook first and then entering your values.
 
 # PS: 
-To actually use this notebook interactively, you need to run all cells first.(IPython Widgets!!!)
+To actually use this notebook interactively, you need to run all cells first (IPython Widgets!!!)
 Enter the name of the exchange and the ticker next in the space provided and BOOM.
 
 # Use this notebook as your stock screener
