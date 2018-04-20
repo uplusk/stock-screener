@@ -4,6 +4,10 @@ An interactive jupyter notebook to help you screen your stocks
 1. chromedriver.exe(included in this repository)
 2. Running all the cells of the notebook first and then entering your values.
 
+# PS: 
+To actually use this notebook interactively, you need to run all cells first.(IPython Widgets!!!)
+Enter the name of the exchange and the ticker next in the space provided and BOOM.
+
 # Use this notebook as your stock screener
 The name of the exchange and the ticker symbol of your stock is all you need. 
 Enter these in the space provided and let the magic happen!
