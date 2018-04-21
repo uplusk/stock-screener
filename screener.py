@@ -26,7 +26,7 @@ import os
 from bs4 import BeautifulSoup
 
 import quandl
-quandl.ApiConfig.api_key = "sY8rR9LTz4kT5z2cs94v" #set API key
+quandl.ApiConfig.api_key = "your Quandl API key" #set API key
 
 plt.rcParams['figure.figsize']=(20,10)
 plt.style.use('ggplot')
@@ -151,7 +151,7 @@ class AlphaFinanceAPI():
         self.daily = "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol="
         self.interval = "1min"
         self.outputsize = "full"
-        self.api_key = "G7QAUGZE31YOC1B3"
+        self.api_key = "Alphavantage API key"
         self.datatype = "csv"
         
     def get(self,symbol):
